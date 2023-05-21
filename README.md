@@ -1,4 +1,4 @@
-# Jonna Paixão
+# Jonna Nöjd
 Jag är för närvarande student på Webbutvecklingsprogrammet vid Mittuniversitetet. Jag bor i Uppsala. 
 
 ## Kontakt
